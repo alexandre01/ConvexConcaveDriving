@@ -5,8 +5,8 @@
 ![](docs/roundabout.jpg)
 
 ## Notebooks
-- [simple_road.ipynb](roundabout.ipynb): Simple road segment
-- [complex_road.ipynb](roundabout.ipynb): Complex Formula 1 circuit
+- [simple_road.ipynb](simple_road.ipynb): Simple road segment
+- [complex_road.ipynb](complex_road.ipynb): Complex Formula 1 circuit
 - [roundabout.ipynb](roundabout.ipynb): Multi-agent roundabout crossing
 
 ## Requirements
